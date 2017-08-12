@@ -2,6 +2,8 @@
 
 > A Vue-powered web application that helps you to prioritize tasks (or other kind of items) with Elo rating
 
+> [Hosted on GitHub Pages](https://ark120202.github.io/easy-elo-ranker/)
+
 ## Usage
 1. Add few (>= 2) items to list
     * *You can edit and remove items directly from the list*
