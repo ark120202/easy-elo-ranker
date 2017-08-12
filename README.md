@@ -15,4 +15,5 @@
 
 
 *Application is based on [vue-webpack-boilerplate](https://github.com/vuejs-templates/webpack)*
+
 *[bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) was used for design*
